@@ -1,1 +1,5 @@
 # aaryasite
+
+---
+permalink: /index.html
+---
