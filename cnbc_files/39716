@@ -1,0 +1,130 @@
+var bk_results = {
+ "campaigns": [
+  {
+    "campaign": 487946,
+    "timestamp": 1593653748,
+    "categories": [
+    {
+     "categoryID": 839887,
+     "timestamp": 1593653594
+    }
+    ]
+  },
+  {
+    "campaign": 487944,
+    "timestamp": 1593653748,
+    "categories": [
+    {
+     "categoryID": 408064,
+     "timestamp": 1593653748
+    },
+    {
+     "categoryID": 839887,
+     "timestamp": 1593653594
+    }
+    ]
+  },
+  {
+    "campaign": 487950,
+    "timestamp": 1593653748,
+    "categories": [
+    {
+     "categoryID": 14,
+     "timestamp": 1593653611
+    },
+    {
+     "categoryID": 2831,
+     "timestamp": 1593653611
+    },
+    {
+     "categoryID": 408064,
+     "timestamp": 1593653748
+    },
+    {
+     "categoryID": 779657,
+     "timestamp": 1593653611
+    },
+    {
+     "categoryID": 1253124,
+     "timestamp": 1593653611
+    }
+    ]
+  },
+  {
+    "campaign": 487952,
+    "timestamp": 1593653748,
+    "categories": [
+    {
+     "categoryID": 14,
+     "timestamp": 1593653611
+    },
+    {
+     "categoryID": 2831,
+     "timestamp": 1593653611
+    },
+    {
+     "categoryID": 779657,
+     "timestamp": 1593653611
+    },
+    {
+     "categoryID": 1253124,
+     "timestamp": 1593653611
+    }
+    ]
+  },
+  {
+    "campaign": 486871,
+    "timestamp": 1593653748,
+    "categories": [
+    {
+     "categoryID": 1,
+     "timestamp": 1593309923
+    },
+    {
+     "categoryID": 142416,
+     "timestamp": 1593309923
+    },
+    {
+     "categoryID": 671901,
+     "timestamp": 1593653649
+    },
+    {
+     "categoryID": 1565845,
+     "timestamp": 1593653634
+    }
+    ]
+  },
+  {
+    "campaign": 487947,
+    "timestamp": 1593653748,
+    "categories": [
+    {
+     "categoryID": 25324,
+     "timestamp": 1593653611
+    },
+    {
+     "categoryID": 356884,
+     "timestamp": 1593653634
+    },
+    {
+     "categoryID": 408064,
+     "timestamp": 1593653748
+    }
+    ]
+  },
+  {
+    "campaign": 486126,
+    "timestamp": 1593653748,
+    "categories": [
+    {
+     "categoryID": 437522,
+     "timestamp": 1593653611
+    },
+    {
+     "categoryID": 1738994,
+     "timestamp": 1593653611
+    }
+    ]
+  }
+ ]
+};
